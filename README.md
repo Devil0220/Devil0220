@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Devil0220
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning cyber security
-- 💞️ I’m looking to collaborate on my project in java and python
+- 💞️ I’m looking to collaborate on my project in java,python,php,html,css,javascript.......
 - 📫 Hreach me on javaprogramp107@gmail.com
 
 <!---
